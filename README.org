@@ -2,9 +2,8 @@
 
 
 
-dccd647---------+-------------------------------------------|
-dccd647 source  | git:https://notabug.org/cage/s-dot2.git   |
-dccd647 commit  |   |
-dccd647 systems | s-dot2 |
-dccd647---------+-------------------------------------------|
-
+|---------+-----------------------------------------|
+| source  | git:https://notabug.org/cage/s-dot2.git |
+| commit  | dccd647                                 |
+| systems | s-dot2                                  |
+|---------+-----------------------------------------|
